@@ -124,7 +124,7 @@ streamlit run app.py
 
 ### 🔹 Web App UI
 
-![UI](outputs/ui_p3_1.png)
+![UI](outputs/ui-p3_1.png)
 ![UI](outputs/ui_p3_2.png)
 ---
 
